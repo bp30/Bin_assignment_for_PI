@@ -1,4 +1,5 @@
-# Load packages
+# Load packages (NOTE:if you haven't installed tidyverse previously, just uncomment the line of code immediately following this line)
+# install.packages (tidyverse)
 library (tidyverse)
 
 # Set directory modified when necessary 
